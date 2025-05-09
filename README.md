@@ -4,21 +4,7 @@ This repository showcases a series of experiments with open-source Large Languag
 
 ## Repository Overview
 
-The project documentation is available as a comprehensive video tutorial: [YouTube - Comprehensive LLM Fine-tuning, Pre-training, and Deployment with Unsloth](https://youtu.be/XXXXXXXXXX)
-
-The codebase is organized into seven main components:
-
-
-root/
-├── README.md
-├── a_model_finetuning/
-├── b_language_pretraining/
-├── c_specialized_templates/
-├── d_preference_optimization/
-├── e_checkpoint_continuation/
-├── f_healthcare_assistant/
-└── g_deployment_pipeline/
-
+The project documentation is available as a comprehensive video tutorial: [YouTube - Comprehensive LLM Fine-tuning, Pre-training, and Deployment with Unsloth](https://youtu.be/3ENSHptjJCU)
 
 ## Component Details
 
