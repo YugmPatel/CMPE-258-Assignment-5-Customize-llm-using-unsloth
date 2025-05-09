@@ -4,7 +4,8 @@ This repository showcases a series of experiments with open-source Large Languag
 
 ## Repository Overview
 
-The project documentation is available as a comprehensive video tutorial: [YouTube - Comprehensive LLM Fine-tuning, Pre-training, and Deployment with Unsloth](https://youtu.be/3ENSHptjJCU)
+## Video Guide:
+Youtube Video Tutorial: [YouTube - Comprehensive LLM Fine-tuning, Pre-training, and Deployment with Unsloth](https://youtu.be/3ENSHptjJCU)
 
 ## Component Details
 
@@ -88,18 +89,6 @@ Each component includes a self-contained Colab notebook. To begin:
 * Google Colab account with GPU access
 * Google Drive space for model storage
 * Understanding of transformer models and fine-tuning concepts
-
-## Video Guide
-
-The accompanying video tutorial walks through:
-
-1. Environment setup for each component
-2. Dataset preparation and processing
-3. Model configuration and training
-4. Results analysis and benchmarking
-5. Practical applications and deployment considerations
-
-The video comprehensively covers all seven components in a single walkthrough.
 
 ## Additional Resources
 
